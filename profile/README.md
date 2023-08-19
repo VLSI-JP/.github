@@ -1,10 +1,8 @@
----
-layout: default
-title: README.md
----
-# README.md
+# VLSI-JP
 
 愛と半導体と計算機のゆるふわ個人サイト
+
+[VLSI.JP](VLSI.JP)
 
 ## 記事の追加方法
 
