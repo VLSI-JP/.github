@@ -2,7 +2,7 @@
 
 愛と半導体と計算機のゆるふわ個人サイト
 
-[VLSI.JP](VLSI.JP)
+[VLSI.JP](https://VLSI.JP)
 
 ## 記事の追加方法
 
